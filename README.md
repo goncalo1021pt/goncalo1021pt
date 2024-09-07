@@ -9,6 +9,8 @@ Hello! I'm Gonçalo Pereira, a passionate developer currently working on various
 - 🔭 I’m currently working on [cpp_modules](https://github.com/goncalo1021pt/42lisboa/tree/main/commoncore/cpp)
 - 🌱 I’m currently learning C, C++, JavaScript, Docker
 
+___
+
 ###
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=goncalo1021pt)

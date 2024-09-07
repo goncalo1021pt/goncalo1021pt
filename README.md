@@ -1,10 +1,11 @@
 # Gonçalo Pereira
 
-![Profile Picture](https://avatars.githubusercontent.com/u/your-username?s=400&v=4)
+## About Me
 
-###
+Hello! I'm Gonçalo Pereira, a passionate developer currently working on various projects involving C, C++, JavaScript, and Docker.
 
-<h2 align="left">Hi 👋! My name is Gonçalo Santos Pereira and I'm a Studen, at 42 Lisboa</h2>
+- 🔭 I’m currently working on [cpp_modules](https://github.com/goncalo1021pt/42lisboa/tree/main/commoncore/cpp)
+- 🌱 I’m currently learning C, C++, JavaScript, Docker
 
 ###
 
@@ -67,6 +68,12 @@
 <!-- <img src="https://raw.githubusercontent.com/goncalo1021pt/goncalo1021pt/output/snake.svg" alt="Snake animation" /> -->
 
 ###
+
+## Skills
+
+- **Languages**: C, C++, C#, Java, Bash, JavaScript 
+- **Tools**: Docker, Git, VS Code, Unity
+- **Operating Systems**: Linux, Windows
 
 
 <!-- **goncalo1021pt/goncalo1021pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

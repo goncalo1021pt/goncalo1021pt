@@ -1,3 +1,8 @@
+# Gonçalo Pereira
+![Profile Picture](https://avatars.githubusercontent.com/u/your-username?s=400&v=4)
+
+###
+
 <h2 align="left">Hi 👋! My name is Gonçalo Santos Pereira and I'm a Studen, at 42 Lisboa</h2>
 
 ###
@@ -65,11 +70,12 @@
 
 <!-- **goncalo1021pt/goncalo1021pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on cpp_modules
-- 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on [cpp_modules](https://github.com/goncalo1021pt/42lisboa/tree/main/commoncore/cpp)
+- 🌱 I’m currently learning C, C++, JavaScript, Docker
+
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

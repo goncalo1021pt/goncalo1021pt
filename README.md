@@ -1,5 +1,7 @@
 # Gonçalo Pereira
 
+![Profile Picture](https://github.com/goncalo1021pt.png?size=400)
+
 ## About Me
 
 Hello! I'm Gonçalo Pereira, a passionate developer currently working on various projects involving C, C++, JavaScript, and Docker.

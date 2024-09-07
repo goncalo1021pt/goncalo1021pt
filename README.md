@@ -1,6 +1,6 @@
 # Gonçalo Pereira
 
-![Profile Picture](https://github.com/goncalo1021pt.png?size=200)
+![Profile Picture](https://imgur.com/a/1orJgom?size=200)
 
 ## About Me
 

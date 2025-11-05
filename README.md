@@ -2,8 +2,8 @@
 
 Hello! I'm Gonçalo Pereira, software development currently working on various projects involving C, C++, JavaScript, and Docker.
 
-- 🔭 I’m currently working on [ft_ls](https://github.com/goncalo1021pt/ls)
-- 🌱 I’m currently learning C, C++, JavaScript, Docker
+- 🔭 I’m currently working on [ft_traceroute](https://github.com/goncalo1021pt/ft_traceroute)
+- 🌱 I’m currently learning C, C++, Python, JavaScript, Docker
 
 ___
 

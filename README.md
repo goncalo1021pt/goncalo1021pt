@@ -15,7 +15,7 @@
 I'm a **42 student in specialization** and passionate software developer with expertise in **systems programming**, **web development**, and **containerization**. Currently exploring network programming and the intersection of low-level and high-level programming.
 
 - 🎓 **42 Student** - Currently in specialization phase
-- 🔭 Currently working on **[ft_traceroute](https://github.com/goncalo1021pt/42lisboa)**
+- 🔭 Currently working on **[Piscine_Cybersecurity](https://github.com/goncalo1021pt/Piscine_Cybersecurity)**
 - 🌱 Learning **Network Programming, Python, Advanced C++, Docker orchestration**
 - 💡 Interested in **system architecture, performance optimization, and clean code**
 - 🎯 Goal: Build efficient, scalable, and maintainable software

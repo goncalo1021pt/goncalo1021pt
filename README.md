@@ -12,10 +12,11 @@
 
 ## 🚀 About Me
 
-I'm a **42 student in specialization** and passionate software developer working full-time while completing my studies. I specialize in **systems programming**, **network programming**, and **low-level optimization**. Deeply focused on understanding how systems work at the core level.
+I'm a **software developer at Streambow** and **42 student in specialization**, working full-time while completing my studies. I specialize in **systems programming**, **network programming**, and **low-level optimization**. Deeply focused on understanding how systems work at the core level.
 
+- 💼 **Developer at Streambow** - Building scalable and efficient software
 - 🎓 **42 Student in Specialization** - Balancing studies with full-time work
-- 🔭 Currently working on **[Inception](https://github.com/goncalo1021pt/Inception)** (42 project) and **Dune Board Game** implementation
+- 🔭 Currently working on **[Inception of things](https://github.com/goncalo1021pt/Inception)** (42 project) and **[Dune Board Game](https://github.com/goncalo1021pt/dune)** implementation
 - 🌱 Focused on **Network Programming, Systems Optimization, Go, Performance Analysis**
 - 💡 Interested in **network protocols, memory management, debugging tools, system architecture**
 - 🎯 Goal: Build efficient, robust, and deeply optimized software

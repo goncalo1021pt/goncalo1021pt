@@ -12,45 +12,48 @@
 
 ## 🚀 About Me
 
-I'm a **42 student in specialization** and passionate software developer with expertise in **systems programming**, **web development**, and **containerization**. Currently exploring network programming and the intersection of low-level and high-level programming.
+I'm a **42 student in specialization** and passionate software developer working full-time while completing my studies. I specialize in **systems programming**, **network programming**, and **low-level optimization**. Deeply focused on understanding how systems work at the core level.
 
-- 🎓 **42 Student** - Currently in specialization phase
-- 🔭 Currently working on **[Piscine_Cybersecurity](https://github.com/goncalo1021pt/Piscine_Cybersecurity)**
-- 🌱 Learning **Network Programming, Python, Advanced C++, Docker orchestration**
-- 💡 Interested in **system architecture, performance optimization, and clean code**
-- 🎯 Goal: Build efficient, scalable, and maintainable software
+- 🎓 **42 Student in Specialization** - Balancing studies with full-time work
+- 🔭 Currently working on **[Inception](https://github.com/goncalo1021pt/Inception)** (42 project) and **Dune Board Game** implementation
+- 🌱 Focused on **Network Programming, Systems Optimization, Go, Performance Analysis**
+- 💡 Interested in **network protocols, memory management, debugging tools, system architecture**
+- 🎯 Goal: Build efficient, robust, and deeply optimized software
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Tools & Technologies
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-CC0000?style=for-the-badge&logo=valgrind&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=goncalo1021pt&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=goncalo1021pt&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=goncalo1021pt&theme=midnight-purple&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -60,9 +63,11 @@ I'm a **42 student in specialization** and passionate software developer with ex
 
 <div align="center">
 
-[![malloc](https://github-readme-stats.vercel.app/api/pin/?username=goncalo1021pt&repo=malloc&theme=radical&hide_border=true)](https://github.com/goncalo1021pt/malloc)
-[![ft_ping](https://github-readme-stats.vercel.app/api/pin/?username=goncalo1021pt&repo=ft_ping&theme=radical&hide_border=true)](https://github.com/goncalo1021pt/ft_ping)
-[![ft_transcendence](https://github-readme-stats.vercel.app/api/pin/?username=goncalo1021pt&repo=ft_transcendence&theme=radical&hide_border=true)](https://github.com/goncalo1021pt/ft_transcendence)
+[![malloc](https://img.shields.io/badge/malloc-Custom%20Memory%20Allocator-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/goncalo1021pt/malloc)
+[![ft_ping](https://img.shields.io/badge/ft_ping-Network%20Programming%20(ICMP)-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/goncalo1021pt/ft_ping)
+
+[![ft_transcendence](https://img.shields.io/badge/ft_transcendence-Full%20Stack%20Web%20App-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/goncalo1021pt/ft_transcendence)
+[![minishell](https://img.shields.io/badge/minishell-Unix%20Shell%20Implementation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/goncalo1021pt/minishell)
 
 </div>
 
